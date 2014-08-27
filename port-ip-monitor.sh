@@ -5,7 +5,7 @@
 # Created: Wednesday, August 27 2014 by Hua Liang[Stupid ET] <et@everet.org>
 #
 
-filename="monitor.log"
+filename="port-ip-monitor.log"
 regex="(909|600[0-9]{2})"
 
 date +"[%Y-%m-%d %H:%M:%S]" >> $filename
